@@ -1,0 +1,4661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>_CUBE</name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Angel of Serenity</name>
+ <set picURL="/Angel of Serenity.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Creature - Angel </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Angel of Serenity enters the battlefield, exile target creature.
+When Angel of Serenity leaves the battlefield, each opponent skips their next untap step.</text>
+</card>
+<card>
+ <name>Angelic Herald</name>
+ <set picURL="/Angelic Herald.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Bird Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Lifelink
+Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+</card>
+<card>
+ <name>Angelic Renewal</name>
+ <set picURL="/Angelic Renewal.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield. Return it to your hand at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Apprentice Monk</name>
+ <set picURL="/Apprentice Monk.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, you may tap target creature.</text>
+</card>
+<card>
+ <name>Approach of the Second Sun</name>
+ <set picURL="/Approach of the Second Sun.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>5W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>If Approach of the Second Sun was cast from your hand and you’ve cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner’s library sixth from the top and you gain 6 life.</text>
+</card>
+<card>
+ <name>Arm the Troops</name>
+ <set picURL="/Arm the Troops.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 2W (You may pay an additional 2W as you cast this spell.)
+Create three colorless Equipment artifact tokens named Veteran’s Sidearm (Equip 1, +1/+1). If Arm the Troops was kicked, you may equip those tokens without pay their equip costs.</text>
+</card>
+<card>
+ <name>Austere Command</name>
+ <set picURL="/Austere Command.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose two —
+• Exile all planeswalkers.
+• Exile all noncreature artifacts and enchantments.
+• Exile all creatures with converted mana cost three or less.
+• Exile all creatures with converted mana cost four or greater.</text>
+</card>
+<card>
+ <name>Austere Command</name>
+ <set picURL="/Austere Command.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose two —
+• Exile all planeswalkers.
+• Exile all noncreature artifacts and enchantments.
+• Exile all creatures with converted mana cost three or less.
+• Exile all creatures with converted mana cost four or greater.</text>
+</card>
+<card>
+ <name>Aven Reinforcer</name>
+ <set picURL="/Aven Reinforcer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Bird Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature enters the battlefield under your control, you gain 1 life.
+Memorialize 2W (2W: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Boros Fortification</name>
+ <set picURL="/Boros Fortification.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>3WW: Creatures you control get +1/+1 until end of turn.
+Landfall — Whenever a land enters the battlefield under your control, create a 1/1 white Human Soldier creature token.</text>
+</card>
+<card>
+ <name>Call for Reinforcements</name>
+ <set picURL="/Call for Reinforcements.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creature two 1/1 white Human Soldier creature tokens.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Cataclysm</name>
+ <set picURL="/Cataclysm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile all nonland creatures.
+Awaken 4—5GW (If you cast this card for 5GW, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Champion of the Sun</name>
+ <set picURL="/Champion of the Sun.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>6WW</manacost>
+ <type>Creature - Giant </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Champion of the Sun enters the battlefield or attacks, you may return a permanent with the converted mana cost of 6 or less from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Cleanse</name>
+ <set picURL="/Cleanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target artifact, creature, enchantment, or card in a graveyard.
+Salve W (W, Exile this card from your graveyard: You gain life equal to its converted mana cost.)</text>
+</card>
+<card>
+ <name>Cleanse</name>
+ <set picURL="/Cleanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target artifact, creature, enchantment, or card in a graveyard.
+Salve W (W, Exile this card from your graveyard: You gain life equal to its converted mana cost.)</text>
+</card>
+<card>
+ <name>Daring Skyguard</name>
+ <set picURL="/Daring Skyguard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+W, Tap two untapped creatures you control: Detain target creature.
+Memorialize 3WW (3WW: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Determined Initiate</name>
+ <set picURL="/Determined Initiate.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Spell mastery — As long as there are two or more instant and/or sorcery cards in your graveyard, Determined Initiate has +1/+2 and lifelink.</text>
+</card>
+<card>
+ <name>Elspeths Honor Guard</name>
+ <set picURL="/Elspeths Honor Guard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 white Human Soldier creature tokens.
+Salve 1WW (1WW, Exile this card from your graveyard: You gain life equal to its converted mana cost.)</text>
+</card>
+<card>
+ <name>Endbringer</name>
+ <set picURL="/Endbringer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Legendary Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Endbringer enters the battlefield, destroy all other creatures.</text>
+</card>
+<card>
+ <name>Eyes Above</name>
+ <set picURL="/Eyes Above.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/1 white Bird creature token with flying.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Flamewright</name>
+ <set picURL="/Flamewright.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike
+T: Create a colorless Equipment artifact token named Darksteel Axe. (Equip 2, +2/+0)</text>
+</card>
+<card>
+ <name>Give up the Sword</name>
+ <set picURL="/Give up the Sword.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller gains life equal to its power.</text>
+</card>
+<card>
+ <name>Graceful Battlemage</name>
+ <set picURL="/Graceful Battlemage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+</card>
+<card>
+ <name>Griffins Boon</name>
+ <set picURL="/Griffins Boon.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a 2/2 white Griffin creature token with flying.
+Salve W (W, Exile this card from your graveyard: You gain life equal to its converted mana cost.)</text>
+</card>
+<card>
+ <name>Growing Mob</name>
+ <set picURL="/Growing Mob.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Growing Mob enters the battlefield, investigate 4 times.
+Whenever you sacrifice a clue, create a 1/1 white Human creature token.</text>
+</card>
+<card>
+ <name>Heavenly Reinforcements</name>
+ <set picURL="/Heavenly Reinforcements.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a 4/4 white Angel creature token with flying.
+Salve 1W (1W, Exile this card from your graveyard: You gain life equal to its converted mana cost.)</text>
+</card>
+<card>
+ <name>Hussar Patrol</name>
+ <set picURL="/Hussar Patrol.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create a 2/2 white Knight creature token with vigilance. Detain up to one creature.</text>
+</card>
+<card>
+ <name>Imperious Invoker</name>
+ <set picURL="/Imperious Invoker.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever Imperious Invoker attacks, target creature defending play controls loses all abilities and has base power and toughness 0/1 until end of turn.</text>
+</card>
+<card>
+ <name>Inner Balance</name>
+ <set picURL="/Inner Balance.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/1 white Monk creature token with prowess.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Innocent Journeyman</name>
+ <set picURL="/Innocent Journeyman.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Innocent Journeyman enters the battlefield, creature a 0/4 white Ox creature token. (Yoked Ox)
+3W, T: Populate.</text>
+</card>
+<card>
+ <name>Journey to Nowhere</name>
+ <set picURL="/Journey to Nowhere.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Journey to Nowhere</name>
+ <set picURL="/Journey to Nowhere.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Judgement</name>
+ <set picURL="/Judgement.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one:
+• Exile target creature.
+• Exile all creatures.</text>
+</card>
+<card>
+ <name>Judgement</name>
+ <set picURL="/Judgement.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one:
+• Exile target creature.
+• Exile all creatures.</text>
+</card>
+<card>
+ <name>Keeper of the Aviary</name>
+ <set picURL="/Keeper of the Aviary.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Keeper of the Aviary enters the battlefield, create a 1/1 white Bird creature token with flying.
+Whenever an opponent attacks with one or more creatures, populate.
+Memorialize 3W (3W: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Keeper of the Vault</name>
+ <set picURL="/Keeper of the Vault.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Extort (Whenever you cast a spell, you may pay W/B. If you do, each opponent loses 1 life and you gain that much life.)
+When Keeper of the Vault enters the battlefield, sacrifice a permanent, then search your library for a noncreature artifact or enchantment and put it into play. Shuffle your library.</text>
+</card>
+<card>
+ <name>Kitsune Sanctifier</name>
+ <set picURL="/Kitsune Sanctifier.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Fox Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Kitsune Sanctifier enters the battlefield, you may exile target creature card from a graveyard. If you do, create a 1/1 white Spirit creature token with flying.</text>
+</card>
+<card>
+ <name>Knight of Opulence</name>
+ <set picURL="/Knight of Opulence.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Extort (Whenever you cast a spell, you may pay W/B. If you do, each opponent loses 1 life and you gain that much life.)
+When Knight of Opulence enters the battlefield, exile target creature until Knight of Opulence leaves the battlefield.</text>
+</card>
+<card>
+ <name>Lightweaver Acolyte</name>
+ <set picURL="/Lightweaver Acolyte.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Giant Monk </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Whenever you cast a noncreature spell, you may exile target creature. Return it to the battlefield at end of turn.</text>
+</card>
+<card>
+ <name>Lotus-Eye Mystics</name>
+ <set picURL="/Lotus-Eye Mystics.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double Strike
+Inspired — Whenever Lotus-Eye Mystics becomes untapped, tap target creature you don’t control.</text>
+</card>
+<card>
+ <name>Lunarch Inquisition</name>
+ <set picURL="/Lunarch Inquisition.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double Strike
+When Lunarch Inquisition enters the battlefield, investigate.</text>
+</card>
+<card>
+ <name>Lyev Skyknight</name>
+ <set picURL="/Lyev Skyknight.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast a noncreature spell, you may detain target creature. (Until your next turn, that creature can’t attack or block and its activated abilities can’t be activated.)</text>
+</card>
+<card>
+ <name>Monastery Mentor</name>
+ <set picURL="/Monastery Mentor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess.</text>
+</card>
+<card>
+ <name>Not Forgotten</name>
+ <set picURL="/Not Forgotten.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target card from a graveyard on the top or bottom of its owner’s library. Create a 1/1 white Spirit creature token with flying.
+Flashback W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Oblivion Ring</name>
+ <set picURL="/Oblivion Ring.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Oblivion Ring enters the battlefield, exile target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Oblivion Ring</name>
+ <set picURL="/Oblivion Ring.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Oblivion Ring enters the battlefield, exile target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Oblivion Ring</name>
+ <set picURL="/Oblivion Ring.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Oblivion Ring enters the battlefield, exile target nonland permanent.
+When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Ojutai Exemplars</name>
+ <set picURL="/Ojutai Exemplars.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, choose one —
+• Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner’s control.
+• Tap target creature. Ojutai Exemplars gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Overzealous Inquisitor</name>
+ <set picURL="/Overzealous Inquisitor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+1W, Exile target creature card from a graveyard: Create a 1/1 white spirit creature token with flying</text>
+</card>
+<card>
+ <name>Path to Exile</name>
+ <set picURL="/Path to Exile.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.</text>
+</card>
+<card>
+ <name>Raise the Alarm</name>
+ <set picURL="/Raise the Alarm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 white Human Soldier creature tokens.
+Flashback 1W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Rally</name>
+ <set picURL="/Rally.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 2/2 white Knight creature token with vigilance
+Creatures you control get +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Rally the Troops</name>
+ <set picURL="/Rally the Troops.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Morbid — At the beginning of each end step, if a nontoken creature you control died, create a 1/1 Human Soldier creature token.
+3RW, Sacrifice Rally the Troops: Untap creatures you control. After the first postcombat main phase this turn, there’s an additional combat phase.</text>
+</card>
+<card>
+ <name>Re-education</name>
+ <set picURL="/Re-education.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Re-education enters the battlefield, exile target creature until Re-education leaves the battlefield.
+4WU: Put a card exiled with Re-education onto the battlefield under your control.</text>
+</card>
+<card>
+ <name>Restoration Angel</name>
+ <set picURL="/Restoration Angel.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Angel </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash, Flying
+When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.</text>
+</card>
+<card>
+ <name>Selesnya Peacespeaker</name>
+ <set picURL="/Selesnya Peacespeaker.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Creature - Human </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Selesnya Peacespeaker enters the battlefield, create a 1/1 white Bird token.
+Whenever another nontoken creature you control dies, populate.
+Memorialize 3W (3W: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Shepherd of the Lost</name>
+ <set picURL="/Shepherd of the Lost.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature you control dies, you gain 2 life.
+Memorialize 2W (2W: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Solemn Pilgrim</name>
+ <set picURL="/Solemn Pilgrim.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess
+Solemn Pilgrim can’t be blocked as long as it is attacking alone.</text>
+</card>
+<card>
+ <name>Superiority</name>
+ <set picURL="/Superiority.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Extort (Whenever you cast a spell, you may pay W/B. If you do, each opponent loses 1 life and you gain that much life.)
+Creatures you control get +1/+1.</text>
+</card>
+<card>
+ <name>Temple of the White Heron</name>
+ <set picURL="/Temple of the White Heron.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At beginning of combat on your turn, target creature you control gains double strike.
+4WW: Creatures you control get +1/+1 and lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Valiant Captain</name>
+ <set picURL="/Valiant Captain.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Sacrifice a creature: Detain target creature.
+Memorialize 2WW (2WW: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Valors Call</name>
+ <set picURL="/Valors Call.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Valors Call enters the battlefield, create a 1/1 white Human Soldier creature token.
+Creatures you control get +1/+1.</text>
+</card>
+<card>
+ <name>Aetherize</name>
+ <set picURL="/Aetherize.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return all nonland creatures to their owner’s hand.
+Awaken 4—5UU</text>
+</card>
+<card>
+ <name>Aetherize</name>
+ <set picURL="/Aetherize.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return all nonland creatures to their owner’s hand.
+Awaken 4—5UU</text>
+</card>
+<card>
+ <name>As Foretold</name>
+ <set picURL="/As Foretold.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, put a time counter on As Foretold.
+Once each turn, you may pay 0 rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of time counters on As Foretold.</text>
+</card>
+<card>
+ <name>Back Alley Conjurer</name>
+ <set picURL="/Back Alley Conjurer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Back Alley Conjurer attacks, you may draw a card then discard a card.</text>
+</card>
+<card>
+ <name>Bring to Mind</name>
+ <set picURL="/Bring to Mind.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top eight cards of your library. You may cast up to two instant or sorcery cards with converted mana cost 3 or less from among them without paying their mana costs. Put the rest onto the bottom of your library in any order.</text>
+</card>
+<card>
+ <name>Calculated Costs</name>
+ <set picURL="/Calculated Costs.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Calculated Costs 1UU less to cast when targeting a spell you don’t control.
+Counter target spell. Its controller draws 4 cards.</text>
+</card>
+<card>
+ <name>Call from Beyond</name>
+ <set picURL="/Call from Beyond.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Draw two cards, then shuffle a card from your hand into your library.
+Consume 2B (2B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Condescend</name>
+ <set picURL="/Condescend.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays X. Look at the top two cards of your library. You may put any number into your graveyard.
+Consume 2U (2U, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Condescend</name>
+ <set picURL="/Condescend.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays X. Look at the top two cards of your library. You may put any number into your graveyard.
+Consume 2U (2U, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Daring Saboteur</name>
+ <set picURL="/Daring Saboteur.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Daring Saboteur attacks, look at the top card of target player’s library, then you may put that card on the bottom.</text>
+</card>
+<card>
+ <name>Deepwater Prophet</name>
+ <set picURL="/Deepwater Prophet.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an instant or sorcery card, draw a card, then turn Deepwater Prophet face down.
+Morph 1U (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)</text>
+</card>
+<card>
+ <name>Divine Guidance</name>
+ <set picURL="/Divine Guidance.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target player draws a card.
+Buyback 1U (You may pay an additional 1U as you cast this spell. If you do, put this card into your hand as it resolves.)</text>
+</card>
+<card>
+ <name>Drown</name>
+ <set picURL="/Drown.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 3UU (You may pay an additional 3UU as you cast this spell.)
+Counter target creature spell.
+If Drown was kicked, gain control of target creature spell instead.</text>
+</card>
+<card>
+ <name>Drown</name>
+ <set picURL="/Drown.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 3UU (You may pay an additional 3UU as you cast this spell.)
+Counter target creature spell.
+If Drown was kicked, gain control of target creature spell instead.</text>
+</card>
+<card>
+ <name>Drowner of Dreams</name>
+ <set picURL="/Drowner of Dreams.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Merfolk </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
+Whenever you cast a noncreature spell, create a 1/1 blue Merfolk creature token.</text>
+</card>
+<card>
+ <name>Expendable Apprentices</name>
+ <set picURL="/Expendable Apprentices.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target spell or permanent to its owner’s hand. Create two 1/1 blue Human Wizard tokens.
+Consume 1U (1U, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Fact or Fiction</name>
+ <set picURL="/Fact or Fiction.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+</card>
+<card>
+ <name>Fate Reforged</name>
+ <set picURL="/Fate Reforged.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 5UU (You may pay an additional 5UU as you cast this spell.)
+Scry 6. If Fate Reforged was kicked, take an extra turn.</text>
+</card>
+<card>
+ <name>Foresee</name>
+ <set picURL="/Foresee.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Scry 4, then draw four cards. Add UUUU to your mana pool
+Awaken 4—4UUUU (If you cast this card for 4UUUU, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Heidar Rimewind Master</name>
+ <set picURL="/Heidar Rimewind Master.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Legendary Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a noncreature spell, target creature doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Ice Age</name>
+ <set picURL="/Ice Age.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Vanishing 6 (This permanent enters the battlefield with six time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Ice Age enters the battlefield, tap each creature then put an Ice counter on each creature.
+Creatures with Ice counters do not untap during their owner’s untap step.</text>
+</card>
+<card>
+ <name>Interject</name>
+ <set picURL="/Interject.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 6 (You may pay an additional 6 as you cast this spell.)
+Counter target spell. If Interject was kicked, take an extra turn.</text>
+</card>
+<card>
+ <name>Jace the Mindsculptor</name>
+ <set picURL="/Jace the Mindsculptor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Planeswalker - Jace </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>+2: Look at the top card of target player’s library. You may put that card on the bottom of that player’s library.
+0: Draw three cards, then put two cards from your hand on top of your library in any order.
+-1: Return target creature to its owner’s hand.
+-12: Exile all cards from target player’s library, then that player shuffles his or her hand into his or her library.</text>
+</card>
+<card>
+ <name>Jaces Scrutiny</name>
+ <set picURL="/Jaces Scrutiny.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Scry 3, then investigate. (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)</text>
+</card>
+<card>
+ <name>Laboratory Maniac</name>
+ <set picURL="/Laboratory Maniac.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>If you would draw a card while your library has no cards in it, you win the game instead.
+T: Target player draws a card, then discards a card.</text>
+</card>
+<card>
+ <name>Lord of the Unreal</name>
+ <set picURL="/Lord of the Unreal.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, you may pay 1. If you do, create a token that’s a copy of Lord of the Unreal.</text>
+</card>
+<card>
+ <name>Mana Leak</name>
+ <set picURL="/Mana Leak.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 3.
+Awaken 3—4UU (If you cast this card for 4UU, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Mana Leak</name>
+ <set picURL="/Mana Leak.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 3.
+Awaken 3—4UU (If you cast this card for 4UU, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Mana Leak</name>
+ <set picURL="/Mana Leak.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 3.
+Awaken 3—4UU (If you cast this card for 4UU, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Mark of Eviction</name>
+ <set picURL="/Mark of Eviction.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target nonland permanent to its owner’s hand.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Meloku the Clouded Mirror</name>
+ <set picURL="/Meloku the Clouded Mirror.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Legendary Creature - Moonfolk Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Illusions you control get +1/+0.
+Whenever you cast a noncreature spell, create a 0/1 blue Illusion creature token with flying.</text>
+</card>
+<card>
+ <name>Mirror Mockery</name>
+ <set picURL="/Mirror Mockery.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Enchantment - Aura Curse </type>
+ <tablerow>1</tablerow>
+ <text>Enchant player
+Whenever enchanted player attacks with one or more creatures, you may create a token that’s a copy of target attacking creature.</text>
+</card>
+<card>
+ <name>Mysterious Disappearences</name>
+ <set picURL="/Mysterious Disappearences.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Overload 3UU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Return target creature to its owner’s hand. Investigate for each creature returned this way.</text>
+</card>
+<card>
+ <name>Nevermaker</name>
+ <set picURL="/Nevermaker.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Nevermaker leaves the battlefield, draw three cards.
+Evoke 2UU (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Oboro Envoy</name>
+ <set picURL="/Oboro Envoy.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Creature - Faerie Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash, Flying
+When Oboro Envoy enters the battlefield, return target creature spell to its owner’s hand then draw a card.
+Evoke 2U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Oona Queen of the Fae</name>
+ <set picURL="/Oona Queen of the Fae.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>3UUU</manacost>
+ <type>Legendary Creature - Faerie Wizard </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash, Flying
+When Oona Queen of the Fae enters the battlefield, counter target spell or return target permanent to its owner’s hand.
+Evoke 1UU (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Peel from Reality</name>
+ <set picURL="/Peel from Reality.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature or creature spell to its owner’s hand.
+Draw a card.
+Overload 4UU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+</card>
+<card>
+ <name>Perspective Shift</name>
+ <set picURL="/Perspective Shift.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Manifest target creature or creature spell.
+Draw a card.
+Overload 5UU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+</card>
+<card>
+ <name>Plunder</name>
+ <set picURL="/Plunder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Overload 2UBR (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Return target creature to its owner’s hand. Create a colorless Gold artifact token with “Sacrifice this artifact: Add one mana of any color to your mana pool” for each creature returned this way.</text>
+</card>
+<card>
+ <name>Ponder</name>
+ <set picURL="/Ponder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library, then put them back in any order. You may shuffle your library.
+Draw a card.</text>
+</card>
+<card>
+ <name>Quiet Contemplation</name>
+ <set picURL="/Quiet Contemplation.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Exile it with four time counters. It gains suspend.
+Draw a card</text>
+</card>
+<card>
+ <name>Rite of Replication</name>
+ <set picURL="/Rite of Replication.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Multikicker 5 (You may pay an additional 5 any number of times as you cast this spell.)
+Put a token onto the battlefield that’s a copy of target creature. For each time Rite of Replication was kicked, create an additional four tokens.</text>
+</card>
+<card>
+ <name>Sage of Hours</name>
+ <set picURL="/Sage of Hours.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever Sage of Hours deals combat damage to a player, put a time counter on it.
+Remove four time counters from Sage of Hours: Take an extra turn.</text>
+</card>
+<card>
+ <name>Saltwater Prophet</name>
+ <set picURL="/Saltwater Prophet.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Merfolk Wizard </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Inspired — When Saltwater Prophet becomes untapped, look at the top card of your library. You may put it into your graveyard.</text>
+</card>
+<card>
+ <name>Search for Azcanta</name>
+ <set picURL="/Search for Azcanta.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta into “Azcanta, the Sunken Ruin.”</text>
+</card>
+<card>
+ <name>See the Way</name>
+ <set picURL="/See the Way.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library then put any number of them into your graveyard. Put the rest back on top in any order.
+Draw a card.</text>
+</card>
+<card>
+ <name>See the Way</name>
+ <set picURL="/See the Way.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top three cards of your library then put any number of them into your graveyard. Put the rest back on top in any order.
+Draw a card.</text>
+</card>
+<card>
+ <name>Shape Snatcher</name>
+ <set picURL="/Shape Snatcher.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Shapreshifter </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Skulk
+You may have Shape Snatcher enter the battlefield as a copy of any creature on the battlefield with converted mana cost 3 or less.
+Unearth 3B (3B: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Snapcaster Mage</name>
+ <set picURL="/Snapcaster Mage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+</card>
+<card>
+ <name>Solitary Faerie</name>
+ <set picURL="/Solitary Faerie.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Creature - Faerie Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash, Flying
+When Solitary Faerie enters the battlefield, return target creature or creature spell to its owner’s hand.
+Evoke U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Soratami Floodbringer</name>
+ <set picURL="/Soratami Floodbringer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Creature - Moonfolk Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Prowess
+Whenever a land enters the battlefield under an opponents control, add U to your mana pool. This mana does not empty from your mana pool until end of turn.</text>
+</card>
+<card>
+ <name>Soratami Mirror Guard</name>
+ <set picURL="/Soratami Mirror Guard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Creature - Moonfolk Wizard </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash, Flying
+When Soratami Mirror Guard enters the battlefield, counter target spell unless its controller pays 1
+Evoke 1U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Spell Swindle</name>
+ <set picURL="/Spell Swindle.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Create X colorless Gold artifact tokens, where X is that spell’s converted mana cost.</text>
+</card>
+<card>
+ <name>Stormbringer</name>
+ <set picURL="/Stormbringer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Stormbringer enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</text>
+</card>
+<card>
+ <name>Stormrider Spirit</name>
+ <set picURL="/Stormrider Spirit.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Spirit </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Instant Cycling 2U (Discard this card: Search your library for an instant card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Subjugate</name>
+ <set picURL="/Subjugate.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Creature
+You control enchanted creature
+When Subjugate is put into a graveyard from the battlefield, return Subjugate to its owner’s hand.</text>
+</card>
+<card>
+ <name>Sway of the Stars</name>
+ <set picURL="/Sway of the Stars.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top card of your library. You may put it into your graveyard, then draw a card.
+Awaken 15—8U (If you cast this card for 8U, also put fifteen +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Tamiyo the Moon Sage</name>
+ <set picURL="/Tamiyo the Moon Sage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Planeswalker - Tamiyo </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Tap target permanent. It doesn’t untap during its controller’s next untap step.
+-2: Draw a card for each tapped creature target player controls.
+-8: Tamiyo Emblem</text>
+</card>
+<card>
+ <name>Thopter Counter-Assault</name>
+ <set picURL="/Thopter Counter-Assault.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell then create a 1/1 Thopter artifact creature token with flying.</text>
+</card>
+<card>
+ <name>Unstable Focus</name>
+ <set picURL="/Unstable Focus.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Your maximum hand size is three.
+At the beginning of your upkeep, draw a card.
+Awaken 4—4UU (If you cast this card for 4UU, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Upheaval</name>
+ <set picURL="/Upheaval.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target permanent to its owner’s hand.
+Overload 4UU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+</card>
+<card>
+ <name>Waves of the Undead</name>
+ <set picURL="/Waves of the Undead.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.
+Flashback 5BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Aetherborn Shadow</name>
+ <set picURL="/Aetherborn Shadow.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Aetherborn Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)</text>
+</card>
+<card>
+ <name>Army of Dammnation</name>
+ <set picURL="/Army of Dammnation.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a tapped 2/2 black Zombie creature token for each creature card in your graveyard.
+Flashback 3BBB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Bitterblossom</name>
+ <set picURL="/Bitterblossom.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Tribal Enchantment - Faerie </type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.</text>
+</card>
+<card>
+ <name>Blood Artist</name>
+ <set picURL="/Blood Artist.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Vampire </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
+Consume 3B (3B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Blood Barron</name>
+ <set picURL="/Blood Barron.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Blood Barron can’t block
+If a player lost life this turn, you may cast Blood Barron from your graveyard.</text>
+</card>
+<card>
+ <name>Blood Witch</name>
+ <set picURL="/Blood Witch.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Blood Witch enters the battlefield or dies, you may return target creature with converted mana cost 2 or less from your graveyard to the battlefield. You lose life equal to its power.</text>
+</card>
+<card>
+ <name>Bloodghast</name>
+ <set picURL="/Bloodghast.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Vampire Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bloodghast can’t block.
+Landfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Bloodghast</name>
+ <set picURL="/Bloodghast.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Vampire Spirit </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bloodghast can’t block.
+Landfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield tapped.</text>
+</card>
+<card>
+ <name>Bloodsoaked Champion</name>
+ <set picURL="/Bloodsoaked Champion.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bloodsoaked Champion can’t block.
+Raid — 1B: Return Bloodsoaked Champion from your graveyard to the battlefield tapped. Activate this ability only if you attacked with a creature this turn.</text>
+</card>
+<card>
+ <name>Bring Low</name>
+ <set picURL="/Bring Low.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. Mill X where X is that creature’s power.</text>
+</card>
+<card>
+ <name>Bring Low</name>
+ <set picURL="/Bring Low.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. Mill X where X is that creature’s power.</text>
+</card>
+<card>
+ <name>Carrion Feeder</name>
+ <set picURL="/Carrion Feeder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Carrion Feeder can’t block.
+Morbid — If a creature died this turn, you may cast Carrion Feeder from your graveyard</text>
+</card>
+<card>
+ <name>Circle of Suffering</name>
+ <set picURL="/Circle of Suffering.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. Return target creature your graveyard to the battlefield.
+Consume B (B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Corruption</name>
+ <set picURL="/Corruption.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -4/-4 until end of turn. Each player mills 4.
+Flashback 6B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Corruption</name>
+ <set picURL="/Corruption.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -4/-4 until end of turn. Each player mills 4.
+Flashback 6B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Corruption</name>
+ <set picURL="/Corruption.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -4/-4 until end of turn. Each player mills 4.
+Flashback 6B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Dark Flock</name>
+ <set picURL="/Dark Flock.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Dark Flock can’t block
+Raid — 1B: Return Dark Flock from your graveyard to the battlefield tapped. Activate this ability only if you attacked with a creature this turn.</text>
+</card>
+<card>
+ <name>Death Barron</name>
+ <set picURL="/Death Barron.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Skeleton </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Deathly Strix</name>
+ <set picURL="/Deathly Strix.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Deathly Strix can’t block
+Morbid — If a creature died this turn, you may cast Deathly Strix from your graveyard.</text>
+</card>
+<card>
+ <name>Deathpact Angel</name>
+ <set picURL="/Deathpact Angel.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Angel </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature dies, you gain 1 life and each opponent loses 1 life.
+1B, T, Sacrifice Deathpact Angel: Destroy target creature.</text>
+</card>
+<card>
+ <name>Deathsower</name>
+ <set picURL="/Deathsower.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Artifact Creature - Octopus Construct </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Deathsower enters the battlefield, target creature gets -4/-4 until end of turn.
+Sacrifice three creatures: Return Deathsower from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Demon of Deaths Embrace</name>
+ <set picURL="/Demon of Deaths Embrace.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <type>Creature - Demon </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Demon of Deaths Embrace dies, exile it. Return all creature cards from your graveyard to your hand.
+Dredge 10 (If you would draw a card, instead you may put exactly ten cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>
+</card>
+<card>
+ <name>Descent into Darkness</name>
+ <set picURL="/Descent into Darkness.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Descent into Darkness enters the battlefield, each opponent loses 2 life. You gain 2 life.
+Morbid — At the beginning of each end step, if a creature died this turn, return Descent into Darkness to its owner’s hand.</text>
+</card>
+<card>
+ <name>Dread Drone</name>
+ <set picURL="/Dread Drone.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Horror </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+When Dread Drone enters the battlefield, each player sacrifices a creature.</text>
+</card>
+<card>
+ <name>Echoes of the Damned</name>
+ <set picURL="/Echoes of the Damned.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put up to two creature cards from either graveyard onto the battlefield. They each gain Echo X where is X is that creature’s converted mana cost.
+Consume B (B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Expose Weakness</name>
+ <set picURL="/Expose Weakness.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature or planeswalker whose controller lost life this turn.</text>
+</card>
+<card>
+ <name>Fabricated Fortune</name>
+ <set picURL="/Fabricated Fortune.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Fabricated Fortune enters the battlefield tapped.
+T: Create a colorless Gold artifact token with “Sacrifice this artifact: Add one mana of any color to your mana pool.” Fabricated Fortune deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Feast</name>
+ <set picURL="/Feast.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker—Sacrifice a creature (You may sacrifice a creature as you cast this spell.)
+Target creature gets -3/-3 until end of turn and you gain 2 life. If Feast was kicked, that creature gets -6/-6 until end of turn and you gain 4 life</text>
+</card>
+<card>
+ <name>Festering Goblin</name>
+ <set picURL="/Festering Goblin.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Goblin </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Festering Goblin can’t block
+1B: Return Festering Goblin from your graveyard to the battlefield. Activate this ability only if you control another black creature.</text>
+</card>
+<card>
+ <name>Flesh Inversion</name>
+ <set picURL="/Flesh Inversion.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -X/-X where X is that creatures power until end of turn.</text>
+</card>
+<card>
+ <name>The Gates of Hell</name>
+ <set picURL="/The Gates of Hell.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each opponent sacrifices a creature. Search your library for a creature card and put it into your graveyard. Shuffle your library.</text>
+</card>
+<card>
+ <name>Graven Prince</name>
+ <set picURL="/Graven Prince.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Zombie </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature dies, each player mills 1.
+During each of your turns, you may cast one creature or planeswalker card from your graveyard.</text>
+</card>
+<card>
+ <name>Graven Rebirth</name>
+ <set picURL="/Graven Rebirth.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Creature you control
+When enchanted creature dies, you may return another creature card from your graveyard to the battlefield tapped. Return Graven Rebirth from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Gravespawn</name>
+ <set picURL="/Gravespawn.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield tapped. Proliferate.
+Flashback 3B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Gravespawn</name>
+ <set picURL="/Gravespawn.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield tapped. Proliferate.
+Flashback 3B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Grimgrin Undead Champion</name>
+ <set picURL="/Grimgrin Undead Champion.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <type>Legendary Creature - Zombie Warrior </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Grimgrin Undead Champion enters the battlefield, creatures your opponents control get -2/-2 until end of turn.
+2BB, T: Grimgrin Undead Champion fights target creature.</text>
+</card>
+<card>
+ <name>Griselbrand</name>
+ <set picURL="/Griselbrand.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>4BBB</manacost>
+ <type>Legendary Creature - Demon </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, lifelink
+Pay 7 life: Draw seven cards.
+Dredge 13 (If you would draw a card, instead you may put exactly thirteen cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>
+</card>
+<card>
+ <name>Helldozer</name>
+ <set picURL="/Helldozer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Helldozer can’t blocked.
+Sacrifice a creature: You may cast Helldozer from your graveyard until end of turn.</text>
+</card>
+<card>
+ <name>Herald of Totality</name>
+ <set picURL="/Herald of Totality.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <type>Artifact Creature - Demon </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Herald of Totality enters the battlefield, destroy target creature. You gain life equal to its power.</text>
+</card>
+<card>
+ <name>House of Shadows</name>
+ <set picURL="/House of Shadows.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever House of Shadows enters the battlefield, each opponent sacrifices a creature.
+Morbid — At the beginning of each end step, if a creature died this turn, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Hungering One</name>
+ <set picURL="/Hungering One.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Persist
+Whenever a creature dealt damage by Hungering One dies, its controller loses 2 life.
+4BB: Monstrosity 3 (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>Jagged Poppet</name>
+ <set picURL="/Jagged Poppet.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Ogre Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Jagged Poppet can’t block
+You may cast Jagged Poppet from your graveyard if either play has one or fewer cards in their hand.</text>
+</card>
+<card>
+ <name>Keeper of the Damned</name>
+ <set picURL="/Keeper of the Damned.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Demon </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
+Whenever a creature enters the battlefield from your graveyard, untap it. That creature gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Lifes Finale</name>
+ <set picURL="/Lifes Finale.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all creatures. Search each player’s library for a creature card and put them into their owner’s graveyard. Each player shuffles his or her library.</text>
+</card>
+<card>
+ <name>Lifes Finale</name>
+ <set picURL="/Lifes Finale.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all creatures. Search each player’s library for a creature card and put them into their owner’s graveyard. Each player shuffles his or her library.</text>
+</card>
+<card>
+ <name>Meat Puppet</name>
+ <set picURL="/Meat Puppet.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Undying
+When Meat Puppet enters the battlefield, if you didn’t cast it from your hand, discard a card at random.</text>
+</card>
+<card>
+ <name>Mournful Soul</name>
+ <set picURL="/Mournful Soul.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature dies, each player loses 1 life.
+Mournful Soul has lifelink as long as its monstrous.
+4BB: Monstrosity 2 (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>Necromancers Veil</name>
+ <set picURL="/Necromancers Veil.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever Necromancers Veil becomes tapped, add B to your mana pool.
+Morbid — T: You may cast target creature card from your graveyard until end of turn. Activate this ability only if a creature died this turn.</text>
+</card>
+<card>
+ <name>Nephalia Deathroach</name>
+ <set picURL="/Nephalia Deathroach.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie Insect </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)
+1B, Pay 1 life: Remove a counter from target permanent.</text>
+</card>
+<card>
+ <name>Ogre Slumlord</name>
+ <set picURL="/Ogre Slumlord.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Ogre Rogue </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token.
+Rats you control have deathtouch.</text>
+</card>
+<card>
+ <name>Oni of Deaths Embrace</name>
+ <set picURL="/Oni of Deaths Embrace.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Demon </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Kicker BBB (You may pay an additional BBB as you cast this spell.)
+Menace
+When Oni of Deaths Embrace enters the battlefield, if it was kicked, create three 2/2 black Zombie creature tokens.</text>
+</card>
+<card>
+ <name>Phyrexian Arena</name>
+ <set picURL="/Phyrexian Arena.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, draw a card then lose 1 life.
+1B, Sacrifice a permanent you control: Draw a card then lose 1 life.</text>
+</card>
+<card>
+ <name>Pulpit of Punishment</name>
+ <set picURL="/Pulpit of Punishment.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Extort (Whenever you cast a spell, you may pay W/B. If you do, each opponent loses 1 life and you gain that much life.)
+B, Sacrifice a creature: Put two -1/-1 counter on target creature. Proliferate.</text>
+</card>
+<card>
+ <name>Reassembling Skeleton</name>
+ <set picURL="/Reassembling Skeleton.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Skeleton </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast Reassembling Skeleton from your graveyard.
+Consume B (B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Rescue from the Underworld</name>
+ <set picURL="/Rescue from the Underworld.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast Rescue from the Underworld, sacrifice a creature.
+Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep.</text>
+</card>
+<card>
+ <name>Severed Legion</name>
+ <set picURL="/Severed Legion.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Severed Legion dies, create a 0/1 black Hand creature token and a 0/1 black Foot creature token.
+Consume 3B (3B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>The Silent Sisters</name>
+ <set picURL="/The Silent Sisters.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>BBB</manacost>
+ <type>Legendary Creature - Gorgon </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+The Silent Sisters can’t be blocked except by 3 or more creatures.
+When The Silent Sisters dies, create three 1/1 black Gorgon creature tokens with deathtouch.</text>
+</card>
+<card>
+ <name>Succumb</name>
+ <set picURL="/Succumb.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, an opponent chooses one —
+• You create a tapped 2/2 black Zombie creature token.
+• You draw a card.</text>
+</card>
+<card>
+ <name>Sultai Emissary</name>
+ <set picURL="/Sultai Emissary.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+When Sultai Emissary dies, look at the top and bottom card of your library. Manifest one then put the other into your graveyard.</text>
+</card>
+<card>
+ <name>Thoughtpicker Witch</name>
+ <set picURL="/Thoughtpicker Witch.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Witch </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+1B, Sacrifice a creature: Each opponent sacrifices a creature, discards a card, or loses 3 life. (They may not select an option they cannot complete)</text>
+</card>
+<card>
+ <name>Unholy Rebirth</name>
+ <set picURL="/Unholy Rebirth.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to play Unholy Rebirth, pay 3 life.
+Each player sacrifice a creature. Return target creature card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Virulent Rupture</name>
+ <set picURL="/Virulent Rupture.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put three -1/-1 counters on target creature, then proliferate.
+Flashback GUB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Ambush Commander</name>
+ <set picURL="/Ambush Commander.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Goblin Berserker </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Ambush Commander or another creature enters the battlefield under your control, that creature gets +1/+0 and first strike until end of turn.
+Dash 1R (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</text>
+</card>
+<card>
+ <name>Arrogant Warlord</name>
+ <set picURL="/Arrogant Warlord.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Arrogant Warlord enters the battlefield, gain control of all lands your opponents control until end of turn. Untap them.</text>
+</card>
+<card>
+ <name>Ashling the Pilgrim</name>
+ <set picURL="/Ashling the Pilgrim.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Ashling the Pilgrim dies, you may return a red instant or sorcery card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Beacon of Destruction</name>
+ <set picURL="/Beacon of Destruction.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Beacon of Destruction deals 5 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Beacon of Destruction into its owner’s library.</text>
+</card>
+<card>
+ <name>Beacon of Destruction</name>
+ <set picURL="/Beacon of Destruction.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Beacon of Destruction deals 5 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Beacon of Destruction into its owner’s library.</text>
+</card>
+<card>
+ <name>Blood Rites</name>
+ <set picURL="/Blood Rites.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 3RR (You may pay an additional 3RR as you cast this spell.)
+Blood Rites deals 8 damage to target creature. If it was kicked, it deals 8 damage to that creature’s controller.</text>
+</card>
+<card>
+ <name>Bloodfire Mentor</name>
+ <set picURL="/Bloodfire Mentor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Bloodfire Mentor enters the battlefield, exile the top two cards of your library. Until end of turn, you may play cards exiled this way.
+Sorcery Cycling 1R (Discard this card: Search your library for a sorcery card, reveal it, then put it into your hand. Shuffle your library.)</text>
+</card>
+<card>
+ <name>Burn Through</name>
+ <set picURL="/Burn Through.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Burn Through deals 2 damage to target creature and 2 damage to that creature’s controller.</text>
+</card>
+<card>
+ <name>Captivating Duelist</name>
+ <set picURL="/Captivating Duelist.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike
+Whenever Captivating Duelist attacks, gain control of target creature an opponent controls until end of turn.</text>
+</card>
+<card>
+ <name>Chandra Flamecaller</name>
+ <set picURL="/Chandra Flamecaller.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Planeswalker - Chandra </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+0: Discard all the cards in your hand, then draw that many cards plus one.
+-X: Chandra, Flamecaller deals X damage to each creature.</text>
+</card>
+<card>
+ <name>Chandra Torch of Defiance</name>
+ <set picURL="/Chandra Torch of Defiance.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Planeswalker - Chandra </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Exile the top card of your library. You may cast that card. If you don’t, Chandra deals 2 damage to each opponent.
++1: Add RR to your mana pool.
+-3: Chandra deals 4 damage to target creature.
+-7: You get an emblem with “whenever you cast a spell, this emblem deals 5 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Cinder Mage</name>
+ <set picURL="/Cinder Mage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever you cast a red noncreature spell, you may return Cinder Mage from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Daring Swashbuckler</name>
+ <set picURL="/Daring Swashbuckler.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Pirate </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Daring Swashbuckler deals damage, create a Gold token.
+When Daring Swashbuckler dies, flip a coin. If you win, return Daring Swashbuckler from the graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Dragon Fodder</name>
+ <set picURL="/Dragon Fodder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 3R (You may pay an additional 3R as you cast this spell.)
+Create two 1/1 red Goblin creature tokens. If Dragon Fodder was kicked, create four tokens instead.</text>
+</card>
+<card>
+ <name>Dragon-Style Twins</name>
+ <set picURL="/Dragon-Style Twins.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</text>
+</card>
+<card>
+ <name>Engulfing Fires</name>
+ <set picURL="/Engulfing Fires.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Engulfing Fires deals 3 damage to target creature or player. If creature dealt damage this way would die, exile it instead.
+Consume 3B (3B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Erratic Bolt</name>
+ <set picURL="/Erratic Bolt.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Erratic Bolt deals 3 damage to target creature or player.
+Cycling R (R, Discard this card: Draw a card.)
+Madness 3R (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Etali Primal Storm</name>
+ <set picURL="/Etali Primal Storm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Legendary Creature - Elder Dinosaur </type>
+ <pt>6/5</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Etali, Primal Storm attacks, exile the top card of each player’s library, then you may cast any number of nonland cards exiled this way without paying their mana costs.</text>
+</card>
+<card>
+ <name>Fanatical Firebrand</name>
+ <set picURL="/Fanatical Firebrand.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Goblin Pirate </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+R, T: Look at the top card of your library. You may exile that card.
+Consume 2B (2B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Fight for Survival</name>
+ <set picURL="/Fight for Survival.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At beginning of combat on your turn, target creature you control gains haste and double strike.
+3BG: Creatures you control gain persist until end of turn.</text>
+</card>
+<card>
+ <name>Fist of Flames</name>
+ <set picURL="/Fist of Flames.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Fist of Flames deals 3 damage to target creature or player. Put a +1/+1 counter on up to one creature you control.
+Consume 2B (2B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Goblin Bomb Squad</name>
+ <set picURL="/Goblin Bomb Squad.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Goblin Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Goblin Bomb Squad can’t block.
+Sacrifice another creature: Goblin Bomb Squad deals 1 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Ib Halfheart Goblin Tactician</name>
+ <set picURL="/Ib Halfheart Goblin Tactician.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Legendary Creature - Goblin Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Ib doesn’t untap during your untap step.
+Whenever another creature you control deals combat damage to a player, untap Ib.
+Whenever a creature you control attacks, you may pay R. If you do, target creature can’t block this turn.</text>
+</card>
+<card>
+ <name>Ion Storm</name>
+ <set picURL="/Ion Storm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Ion Storm enters the battlefield, it deals 2 damage to target creature or player.
+1R, Remove a counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.
+Awaken 5—5RR</text>
+</card>
+<card>
+ <name>Kavu Flametongue</name>
+ <set picURL="/Kavu Flametongue.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Kavu </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Kavu Flametongue enters the battlefield, it deals 3 damage to target creature or player.
+1B: Kavu Flametongue gains deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Kavu Rager</name>
+ <set picURL="/Kavu Rager.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Kavu </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, First Strike
+2G: Put a +1/+1 counter on Kavu Rager.
+Bloodrush — 2R, Discard Kavu Rager: Target attacking creature gets +3/+2 and first strike until end of turn.</text>
+</card>
+<card>
+ <name>Kavu Screamer</name>
+ <set picURL="/Kavu Screamer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Creature - Kavu </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Kavu Screamer attacks, target creature can’t block until end of turn.
+2GG: All creatures must block Kavu Screamer if able.</text>
+</card>
+<card>
+ <name>Krenkos Command</name>
+ <set picURL="/Krenkos Command.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 red Goblin creature tokens.
+Creatures you control have haste until end of turn.</text>
+</card>
+<card>
+ <name>Kumano Master Yamabushi</name>
+ <set picURL="/Kumano Master Yamabushi.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Legendary Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever Kumano Master Yamabushi enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+</card>
+<card>
+ <name>Lose Control</name>
+ <set picURL="/Lose Control.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Kicker RRR (You may pay an additional RRR as you cast this spell.)
+Gain control of target creature or planeswalker until end of turn. Untap that permanent. It gains haste until end of turn.
+If Lose Control was kicked, it gains rebound.</text>
+</card>
+<card>
+ <name>Mark of the Gruul</name>
+ <set picURL="/Mark of the Gruul.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Mark of the Gruul enters the battlefield, it deals 2 damage to target creature or player.
+1R, Discard a land card: Mark of the Gruul deals 2 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Mutually Assured Destruction</name>
+ <set picURL="/Mutually Assured Destruction.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Mutually Assured Destruction deals 3 damage to target creature or player and 3 damage to you. Flip a coin. If you win, return Mutually Assured Destruction to your hand.</text>
+</card>
+<card>
+ <name>Neheb Unleashed</name>
+ <set picURL="/Neheb Unleashed.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Legendary Creature - Minotaur </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Neheb Unleashed enters the battlefield, tap target land. It doesn’t untap during it’s controllers next untap step.
+Eternalize 4RR (4RR, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Minotaur with no mana cost. Eternalize only as a sorcery.)</text>
+</card>
+<card>
+ <name>Nova Chaser</name>
+ <set picURL="/Nova Chaser.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Orcish Artillery</name>
+ <set picURL="/Orcish Artillery.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Orc Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Orcish Artillery enters the battlefield, you may sacrifice a creature. If you do, Orcish Artillery deals 3 damage to target creature or player.
+Bloodrush — 1R, Discard Orcish Artillery: Target creature gets +3/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Pia and Kiran Nalaar</name>
+ <set picURL="/Pia and Kiran Nalaar.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Legendary Creature - Human Artificer </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Pia and Kiran enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
+1R, Sacrifice a creature: Pia and Kiran deals 2 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Premeditated Destruction</name>
+ <set picURL="/Premeditated Destruction.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Premeditated Destruction deals 6 damage to target creature or player.
+Cycling 1R (1R, Discard this card: Draw a card.)
+When you cycle Premeditated Destruction, it deals 1 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Priest of the Eternal Flame</name>
+ <set picURL="/Priest of the Eternal Flame.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Monk </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Eternalize 3RR (3RR, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Human Monk with no mana cost. Eternalize only as a sorcery.)</text>
+</card>
+<card>
+ <name>Pyrewild Shaman </name>
+ <set picURL="/Pyrewild Shaman .full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Goblin Shaman </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bloodrush — 2R, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.
+Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay 2. If you do, return Pyrewild Shaman to your hand.</text>
+</card>
+<card>
+ <name>Pyrogenesis</name>
+ <set picURL="/Pyrogenesis.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, whenever you cast a spell, create a 1/1 red Elemental creature token with haste.
+Draw a card.</text>
+</card>
+<card>
+ <name>Pyromancers Goggles</name>
+ <set picURL="/Pyromancers Goggles.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add R to your mana pool. When this mana is spent to cast an instant or sorcery spell, that spell gains rebound.</text>
+</card>
+<card>
+ <name>Rage Thrower</name>
+ <set picURL="/Rage Thrower.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>5/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever another creature you control dies, Rage Thrower deals 2 damage to target player.</text>
+</card>
+<card>
+ <name>Rageforger</name>
+ <set picURL="/Rageforger.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature you control dies, Rageforger deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Rakdos Speed Freak</name>
+ <set picURL="/Rakdos Speed Freak.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Berserker </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can’t block as long as it has a +1/+1 counter on it.)
+Creatures you control with counters on them have haste and can’t block.</text>
+</card>
+<card>
+ <name>Reach Through the Aether</name>
+ <set picURL="/Reach Through the Aether.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Cascade, Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Rekindling Phoenix</name>
+ <set picURL="/Rekindling Phoenix.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Creature - Phoenix </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+When Rekindling Phoenix dies, create a 0/1 red Elemental creature token with “At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield.”</text>
+</card>
+<card>
+ <name>Riftwing Hellkite</name>
+ <set picURL="/Riftwing Hellkite.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Dragon </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Dash 4RR
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Shaman of Thorns</name>
+ <set picURL="/Shaman of Thorns.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature enters the battlefield under your control, Shaman of Thorns deals 1 damage each opponent.
+R, Q: Shaman of Thorns deals 1 damage each opponent.</text>
+</card>
+<card>
+ <name>Shivan Meteor</name>
+ <set picURL="/Shivan Meteor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>4RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Shivan Meteor deals four damage to target creature or player.
+Suspend 4—1R
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Spark of Anger</name>
+ <set picURL="/Spark of Anger.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Spark of Anger deals 2 damage to target creature and 1 damage to its controller.
+2R, Exile Spark of Anger from your graveyard: Copy Target instant or sorcery spell you control. You may choose new targets for the copy</text>
+</card>
+<card>
+ <name>Squee Goblin Nabob</name>
+ <set picURL="/Squee Goblin Nabob.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <type>Legendary Creature - Goblin Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>You may cast Squee from your graveyard or exile.</text>
+</card>
+<card>
+ <name>Surging Flames</name>
+ <set picURL="/Surging Flames.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surging Flames deals 3 damage to target creature or player.
+Proliferate.</text>
+</card>
+<card>
+ <name>Surging Flames</name>
+ <set picURL="/Surging Flames.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surging Flames deals 3 damage to target creature or player.
+Proliferate.</text>
+</card>
+<card>
+ <name>Surging Flames</name>
+ <set picURL="/Surging Flames.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surging Flames deals 3 damage to target creature or player.
+Proliferate.</text>
+</card>
+<card>
+ <name>Teachings of Purphoros</name>
+ <set picURL="/Teachings of Purphoros.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creatures you control have haste.
+Whenever a creature enters the battlefield under your control, Teachings of Purphoros deals 2 damage to each opponent.</text>
+</card>
+<card>
+ <name>Unbridled Fury</name>
+ <set picURL="/Unbridled Fury.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant Creature or Planeswalker
+When Unbridled Fury enters the battlefield or at the beginning of your upkeep, gain control of enchanted permanent until end of turn. Untap that permanent. It gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Vengeance</name>
+ <set picURL="/Vengeance.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Incarnation </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever a creature you control dies, you may return Vengeance from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Volcanic Visionary</name>
+ <set picURL="/Volcanic Visionary.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Whenever a land card enters the battlefield from your hand, you may create a token that’s a copy of target creature you control. That token has haste. Sacrifice it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Whirling Dervish</name>
+ <set picURL="/Whirling Dervish.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Creature - Human Berseker </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double Strike
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Wildfire</name>
+ <set picURL="/Wildfire.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Kicker 4R (You may pay an additional 4R as you cast this spell.)
+Wildfire deals 4 damage to target creature. If Wildfire was kicked, it deals 4 damage to each creature instead, then each player sacrifices 4 lands.</text>
+</card>
+<card>
+ <name>Young Pyromancer</name>
+ <set picURL="/Young Pyromancer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, create a 1/1 red Elemental creature token.</text>
+</card>
+<card>
+ <name>Zealous Conscripts</name>
+ <set picURL="/Zealous Conscripts.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
+Evoke 1RR (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Ambassador Oak</name>
+ <set picURL="/Ambassador Oak.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>7GG</manacost>
+ <type>Creature - Treefolk </type>
+ <pt>6/11</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible, Reach
+When Ambassador Oak enters the battlefield, draw a card. You may play an additional land this turn.
+Evoke 1G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Attune with Nature</name>
+ <set picURL="/Attune with Nature.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature enters the battlefield under your control, it explores.
+Awaken 4—4GG (If you cast this card for 4GG, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Avenger of Zendikar</name>
+ <set picURL="/Avenger of Zendikar.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Avenger of Zendikar enters the battlefield, create a 0/1 green Plant creature token for each land you control.
+Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</text>
+</card>
+<card>
+ <name>Beastmasters Helm</name>
+ <set picURL="/Beastmasters Helm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add G to your mana pool. When that mana is spent to cast a creature card, put a token onto the battlefield that’s a copy of that card.
+Awaken 10—8GG (If you cast this card for 8GG, also put ten +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Being of Thorns</name>
+ <set picURL="/Being of Thorns.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Being of Thorns enters the battlefield, it explores, then explores again. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Borderland Ranger</name>
+ <set picURL="/Borderland Ranger.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+Consume 2B (2B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Borderland Ranger</name>
+ <set picURL="/Borderland Ranger.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+Consume 2B (2B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Bosk Banisher</name>
+ <set picURL="/Bosk Banisher.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3GGG</manacost>
+ <type>Creature - Treefolk </type>
+ <pt>4/10</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When Bosk Banisher enters the battlefield, you may destroy target noncreature permanent
+Evoke 3G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Brood Pathfinder</name>
+ <set picURL="/Brood Pathfinder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Eldrazi Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Brood Pathfinder deals combat damage to a player, create a 0/1 colorless Eldrazi Spawn creature token. It has “Sacrifice this creature: Add C to your mana pool.”</text>
+</card>
+<card>
+ <name>Dark Sapling</name>
+ <set picURL="/Dark Sapling.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Treefolk Shaman </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+1G, Exile a land card from a graveyard: Create a 1/1 green Saproling creature token.
+Consume 3B (3B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Deranged Hermit</name>
+ <set picURL="/Deranged Hermit.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Deranged Hermit enters the battlefield, look at the top three cards of your library then put two of them into your graveyard.
+Threshold — Deranged Hermit is indestructible and has menace.</text>
+</card>
+<card>
+ <name>Eldrazi Harvester</name>
+ <set picURL="/Eldrazi Harvester.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Eldrazi Horror </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature dealt damage by Eldrazi Harvester dies, create a 0/1 colorless Eldrazi Spawn creature token. It has “Sacrifice this creature: Add C to your mana pool.”</text>
+</card>
+<card>
+ <name>Engulfing Ooze</name>
+ <set picURL="/Engulfing Ooze.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Ooze </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>2G: Monstrosity 1 (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When Engulfing Ooze becomes monstrous, create a token copy of Engulfing Ooze.</text>
+</card>
+<card>
+ <name>Eternal Sapling</name>
+ <set picURL="/Eternal Sapling.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>Eternal Sapling’s power and toughness are equal to the number of lands you control.
+When Eternal Sapling enters the battlefield, for each land card in your graveyard, you may search your library for a basic land card and put it onto the battlefield tapped. Shuffle your library.</text>
+</card>
+<card>
+ <name>Eternal Wumpus</name>
+ <set picURL="/Eternal Wumpus.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Beast </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Eternal Wumpus is turned face up, gain 5 life.
+If Eternal Wumpus would be destroyed, turn if face down instead.
+Ultra Megamorph 5GG (You may cast this face down as a 2/2 creature for 2. Turn it face up any time for its ultra megamorph cost and put a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Everbark Shaman</name>
+ <set picURL="/Everbark Shaman.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Treefolk Shaman </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lands you control get +0/+2
+T: Add one mana of any color to your mana pool.
+3G: Target land you control becomes a 3/3 green Elemental until end of turn.</text>
+</card>
+<card>
+ <name>Experiment Two</name>
+ <set picURL="/Experiment Two.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Mutant </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)
+Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</text>
+</card>
+<card>
+ <name>Fauna Shaman</name>
+ <set picURL="/Fauna Shaman.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Elf Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Threshold — Whenever you cast a creature spell, create a 1/1 green Saproling creature token.
+G, T, Discard a creature card: Search your library for a creature card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Force of Nature</name>
+ <set picURL="/Force of Nature.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+You may plan an additional land on each of your turns.
+Whenever Force of Nature enters the battlefield, search your library for a land and put it into your hand. Shuffle your library.</text>
+</card>
+<card>
+ <name>Form from Mist</name>
+ <set picURL="/Form from Mist.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a card and manifest it. Shuffle your library.
+Awaken 8—6GG (If you cast this card for 6GG, also put eight +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Foxfire Oak</name>
+ <set picURL="/Foxfire Oak.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>5GGG</manacost>
+ <type>Creature - Treefolk Mutant </type>
+ <pt>10/10</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Foxfire Oak enters the battlefield, you may destroy target artifact, enchantment, or land. Gain 4 life.
+Evoke 3G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Gift of the Grove</name>
+ <set picURL="/Gift of the Grove.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.
+Flashback 2BG (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Gift of the Grove</name>
+ <set picURL="/Gift of the Grove.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest into your graveyard.
+Flashback 2BG (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Heart of the Grove</name>
+ <set picURL="/Heart of the Grove.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When Heart of the Grove enters the battlefield, mill 6.
+At the beginning of your upkeep, choose a card at random in your graveyard. If it’s a land card, put it onto the battlefield. Otherwise, put it into your hand.</text>
+</card>
+<card>
+ <name>Invasive Creepers</name>
+ <set picURL="/Invasive Creepers.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Plant </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Invasive Creepers enters the battlefield, draw a card.
+G, T: Invasive Creepers explores.</text>
+</card>
+<card>
+ <name>Kavu Alpha</name>
+ <set picURL="/Kavu Alpha.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Creature - Kavu </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Kavu Alpha has hexproof as long as it has the greatest power among creatures on the battlefield.
+Bloodrush — 3GG, Discard Kavu Alpha: Target creature gets +5/+5 and hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Kavu Berserker</name>
+ <set picURL="/Kavu Berserker.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Kavu </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+You may cast creature spells as if they had flash.
+Bloodrush — 1GG, Discard Kavu Berserker: Target creatures gets +4/+3 until end of turn.</text>
+</card>
+<card>
+ <name>Kavu Hunter</name>
+ <set picURL="/Kavu Hunter.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Kavu </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Kavu Hunter is dealt damage, you may draw a card.
+2R, T: Kavu Hunter fights target creature.
+Consume 2B (2B, Exile this card from your graveyard: Draw a card.)</text>
+</card>
+<card>
+ <name>Kavu Riftstomper</name>
+ <set picURL="/Kavu Riftstomper.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Kavu </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Kavu Scout</name>
+ <set picURL="/Kavu Scout.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Kavu </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Kavu Scout enters the battlefield, it explores (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Kavu Scrapper</name>
+ <set picURL="/Kavu Scrapper.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Kavu </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>3G: Monstrosity 2 (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+When Kavu Scrapper becomes monstrous, you may destroy target noncreature permanent.</text>
+</card>
+<card>
+ <name>Kavu Stomper</name>
+ <set picURL="/Kavu Stomper.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Kavu </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Leaf-Crowned Elder</name>
+ <set picURL="/Leaf-Crowned Elder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>5GGG</manacost>
+ <type>Creature - Treefolk Shaman </type>
+ <pt>7/12</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+When Leaf-Crowned Elder enters the battlefield, you may search your library for a basic land card and put it onto the battlefield tapped. Shuffle your library.
+Evoke 1G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Life from the Loam</name>
+ <set picURL="/Life from the Loam.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target land card from your graveyard to the battlefield and up to one target land card to your hand.
+Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>
+</card>
+<card>
+ <name>Mastery of the Woods</name>
+ <set picURL="/Mastery of the Woods.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Enchantment </type>
+ <tablerow>1</tablerow>
+ <text>Play with the top card of your library revealed. You may play the top card of your library if it’s a land card.
+Whenever a land enters the battlefield under your control, you gain 1 life.
+Awaken 20—6GGG</text>
+</card>
+<card>
+ <name>Mossborn Guardian</name>
+ <set picURL="/Mossborn Guardian.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Mossborn Guardian enters the battlefield, you may return up to two creature cards from your graveyard to your hand.
+Evoke 2GG (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Mystic Cobra</name>
+ <set picURL="/Mystic Cobra.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Snake </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lands you control have deathtouch.
+T: Add one mana of any color to your mana pool.
+3G: Target land you control becomes a 3/3 green Elemental creature until end of turn.</text>
+</card>
+<card>
+ <name>Nantuko Hermit</name>
+ <set picURL="/Nantuko Hermit.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Insect Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more land cards is put into your graveyard from anywhere, create a 1/1 green Insect creature token.
+3W: Populate. (Put a token onto the battlefield that’s a copy of a creature token you control.)</text>
+</card>
+<card>
+ <name>Natural Reclamation</name>
+ <set picURL="/Natural Reclamation.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target noncreature artifact or enchantment. Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Salve 1W (1W, Exile this card from your graveyard: You gain life equal to its converted mana cost.)</text>
+</card>
+<card>
+ <name>Old Man of the Woods</name>
+ <set picURL="/Old Man of the Woods.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Human Druid </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a player taps a Forest for mana, that player adds G to your mana pool.
+XXG, T: Create X 1/1 green Squirrel creature tokens.</text>
+</card>
+<card>
+ <name>Petalmane Baku</name>
+ <set picURL="/Petalmane Baku.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lands you control have vigilance.
+T: Add one mana of any color to your mana pool.
+3G: Target land you control becomes a 3/3 green Elemental creature until end of turn.</text>
+</card>
+<card>
+ <name>Primeval Titan</name>
+ <set picURL="/Primeval Titan.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <type>Creature - Giant </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+</card>
+<card>
+ <name>Progenitor Spawn</name>
+ <set picURL="/Progenitor Spawn.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Eldrazi Horror </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Progenitor Spawn enters the battlefield, create two 0/1 Eldrazi Spawn creature tokens. They have “Sacrifice this creature: Add C to your mana pool.”</text>
+</card>
+<card>
+ <name>Rancor</name>
+ <set picURL="/Rancor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When Rancor is put into a graveyard from the battlefield, return Rancor to its owner’s hand.</text>
+</card>
+<card>
+ <name>Rapid Cultivation</name>
+ <set picURL="/Rapid Cultivation.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to four basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 4 life.</text>
+</card>
+<card>
+ <name>Satyr Wayfinder</name>
+ <set picURL="/Satyr Wayfinder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment Creature - Satyr Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Satyr Wayfinder enters the battlefield, reveal the three cards of your library. You may put a land or enchantment card from among them into your hand. Put the rest into your graveyard.</text>
+</card>
+<card>
+ <name>Satyr Wayfinder</name>
+ <set picURL="/Satyr Wayfinder.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment Creature - Satyr Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Satyr Wayfinder enters the battlefield, reveal the three cards of your library. You may put a land or enchantment card from among them into your hand. Put the rest into your graveyard.</text>
+</card>
+<card>
+ <name>Scavenging Ooze</name>
+ <set picURL="/Scavenging Ooze.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Ooze </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>G: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.</text>
+</card>
+<card>
+ <name>Shaman of Spring</name>
+ <set picURL="/Shaman of Spring.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Elf Shaman </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lands you control get +1/+0.
+T: Add one mana of any color to your mana pool.
+3G: Target land you control becomes a 3/3 green Elemental creature until end of turn.</text>
+</card>
+<card>
+ <name>Spawn Aggressor</name>
+ <set picURL="/Spawn Aggressor.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Eldrazi Horror </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+When Spawn Aggressor deals combat damage to a player, create a 0/1 colorless Eldrazi Spawn creature token. It has “Sacrifice this creature: Add C to your mana pool.”</text>
+</card>
+<card>
+ <name>Spawn Slinger</name>
+ <set picURL="/Spawn Slinger.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Eldrazi Horror </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Whenever Spawn Slinger attacks or blocks, create a 0/1 colorless Eldrazi Spawn creature token. It has “Sacrifice this creature: Add C to your mana pool.”</text>
+</card>
+<card>
+ <name>Speaker of the Grove</name>
+ <set picURL="/Speaker of the Grove.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Elf </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lands you control have Trample.
+T: Add one mana of any color to your mana pool.
+3G: Target land you control becomes a 3/3 green Elemental creature until end of turn.</text>
+</card>
+<card>
+ <name>Spider Spawning</name>
+ <set picURL="/Spider Spawning.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/2 green Spider creature token with reach for each creature card in your graveyard.
+Flashback 5B (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>Spirit of Mulch</name>
+ <set picURL="/Spirit of Mulch.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, mill 1.
+1G, Exile Spirit of Mulch: Return target card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>The Strength of Legends</name>
+ <set picURL="/The Strength of Legends.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your combat step, target creature creature gets +5/+5 and is indestructible until end of turn.
+Awaken 20—6GGGG (If you cast this card for 6GGGG, also put twenty +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Tendershoot Dryad</name>
+ <set picURL="/Tendershoot Dryad.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Dryad </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+Whenever Tendershoot Dryad enters the battlefield, create a 0/1 green Plant token for each card land card in your graveyard.
+When Tendershoot Dryad attacks, you gain 1 life for each plant you control.</text>
+</card>
+<card>
+ <name>Unnatural Harvest</name>
+ <set picURL="/Unnatural Harvest.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Graft 5 (This permanent enters the battlefield with five +1/+1 counters on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this permanent onto it.)
+G, Remove two counters from among permanents you control: Draw a card.</text>
+</card>
+<card>
+ <name>Vorinclex Voice of Hunger</name>
+ <set picURL="/Vorinclex Voice of Hunger.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>5GGG</manacost>
+ <type>Legendary Creature - Praetor </type>
+ <pt>8/5</pt>
+ <tablerow>2</tablerow>
+ <text>Persist
+When Vorinclex, Voice of Hunger enters the battlefield, destroy target permanent. You gain life equal to its converted mana cost.</text>
+</card>
+<card>
+ <name>Whisperwood Elemental</name>
+ <set picURL="/Whisperwood Elemental.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Whisperwood Elemental enters the battlefield, manifest the top five cards of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it’s a creature card.)</text>
+</card>
+<card>
+ <name>Wildwood Scout</name>
+ <set picURL="/Wildwood Scout.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Elf Scout </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, Wildwood Scout explores (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Worldspine Wurm</name>
+ <set picURL="/Worldspine Wurm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost>6GGG</manacost>
+ <type>Creature - Wurm </type>
+ <pt>15/15</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Worldspine Wurm dies, you gain 15 life.
+Evoke 4GG (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</text>
+</card>
+<card>
+ <name>Angrath Unleashed</name>
+ <set picURL="/Angrath Unleashed.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Planeswalker - Angrath </type>
+ <loyalty>2</loyalty>
+ <tablerow>1</tablerow>
+ <text>Hellbent — If a source would deal damage, it deals double that damage instead.
++1: Each player discards a card. If an opponent was unable to discard a card, add an additional loyalty counter to Angrath.
+-2: Untap target creature and gain control of it until end of turn. It gains haste. Angrath deals 3 damage to that creature.
+-6: Angrath deals 5 damage to target player and each creature that player controls.</text>
+</card>
+<card>
+ <name>Armor of the Stormbringer</name>
+ <set picURL="/Armor of the Stormbringer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1UR</manacost>
+ <type>Legendary Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Instants and Sorceries you cast have rebound as long as Armor of the Stormbringer is attached to a creature.
+Equipped creature in unblockable.
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Burning-Tree Apostle</name>
+ <set picURL="/Burning-Tree Apostle.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1RG</manacost>
+ <type>Creature - Human Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+T: Add R to your mana pool. Burning-Tree Apostle deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Burning-Tree Shaman</name>
+ <set picURL="/Burning-Tree Shaman.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>RG</manacost>
+ <type>Creature - Human Barbarian </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Q: Untap target land you control.</text>
+</card>
+<card>
+ <name>Cemetary Tax</name>
+ <set picURL="/Cemetary Tax.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Extort (Whenever you cast a spell, you may pay W/B. If you do, each opponent loses 1 life and you gain that much life.)
+Whenever a creature dies, you gain 1 life and each opponent loses 1 life.
+Creatures your opponents control enter the battlefield tapped.</text>
+</card>
+<card>
+ <name>Decree of Phenax</name>
+ <set picURL="/Decree of Phenax.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>3UB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>All lands are Islands until the beginning of your next turn.
+Destroy all creatures.</text>
+</card>
+<card>
+ <name>Elvira Time Sage</name>
+ <set picURL="/Elvira Time Sage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>5WUB</manacost>
+ <type>Planeswalker - Elvira </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>+2: Draw two cards, then discard a card.
+-3: Exile two target permanents. Put 5 time counters on them. They gain suspend.
+-9: Take two additional turns. Shuffle your graveyard into your library.</text>
+</card>
+<card>
+ <name>Eternal Servant</name>
+ <set picURL="/Eternal Servant.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Enchantment Creature - Zombie </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Extort
+At the beginning your end step, if Eternal Servant is in your graveyard, return it to the battlefield.</text>
+</card>
+<card>
+ <name>Falkenrath Aristocrat</name>
+ <set picURL="/Falkenrath Aristocrat.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2BR</manacost>
+ <type>Creature - Vampire </type>
+ <pt>4/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, Haste
+Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.</text>
+</card>
+<card>
+ <name>Fractured Reality</name>
+ <set picURL="/Fractured Reality.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4GU</manacost>
+ <type>Legendary Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>You may have lands you play enter the battlefield as a copy of any permanent on the battlefield.
+Awaken 6—6GU (If you cast this card for 6GU, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Gift of the Ancients</name>
+ <set picURL="/Gift of the Ancients.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>6WU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target player draws X cards where X is your life total.</text>
+</card>
+<card>
+ <name>Gishath Suns Avatar</name>
+ <set picURL="/Gishath Suns Avatar.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>5RGGW</manacost>
+ <type>Legendary Creature - Dinosaur God </type>
+ <pt>9/9</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, Haste
+Enrage — Whenever Gishath Suns Avatar is dealt damage, you may have it fight target creature.</text>
+</card>
+<card>
+ <name>The Gitrog Monster</name>
+ <set picURL="/The Gitrog Monster.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>3BG</manacost>
+ <type>Legendary Creature - Frog Horror </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your upkeep, sacrifice The Gitrog Monster unless you sacrifice a land.
+You may play an additional land on each of your turns.
+Whenever one or more land cards are put into your graveyard from anywhere, draw a card.</text>
+</card>
+<card>
+ <name>Goblin Potluck</name>
+ <set picURL="/Goblin Potluck.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>XBRG</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target permanent. Create X 1/1 red Goblin creature tokens with haste.</text>
+</card>
+<card>
+ <name>Hargbinger of Spring</name>
+ <set picURL="/Hargbinger of Spring.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1GW</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+Inspired — When Hargbinger of Spring becomes untapped, populate. (Put a token onto the battlefield that’s a copy of a creature token you control.)</text>
+</card>
+<card>
+ <name>Iname Consumed</name>
+ <set picURL="/Iname Consumed.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>GUB</manacost>
+ <type>Legendary Creature - Shaman </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>0: 
+-3: 
+-X: 
+Deathtouch</text>
+</card>
+<card>
+ <name>Indentured Servitude</name>
+ <set picURL="/Indentured Servitude.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+You control enchanted creature.
+Enchanted creature can’t attack or block.
+8: Destroy Indentured Servitude. Any player may activate this ability.</text>
+</card>
+<card>
+ <name>Jeskai Ascendancy</name>
+ <set picURL="/Jeskai Ascendancy.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card.</text>
+</card>
+<card>
+ <name>Momir Vig Simic Mastermind</name>
+ <set picURL="/Momir Vig Simic Mastermind.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1GU</manacost>
+ <type>Legendary Creature - Elf </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>If you would search your library for a card or cards, search your library for twice as many cards that fit the same criteria instead.</text>
+</card>
+<card>
+ <name>Nicol Bolas the Conqueror</name>
+ <set picURL="/Nicol Bolas the Conqueror.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4UBR</manacost>
+ <type>Planeswalker - Bolas </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>+3: Target opponent exiles cards from the top of his or her library until he or she exiles a nonland card. Until end of turn, you may cast that card for free
+0: Gain control of target creature.
+-16: You win the game.-12: </text>
+</card>
+<card>
+ <name>Nicol Bolas the Deceiver</name>
+ <set picURL="/Nicol Bolas the Deceiver.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4UBR</manacost>
+ <type>Planeswalker - Bolas </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>+3: Gain control of target noncreature permanent.
+0: Create a token that’s a copy of target creature you don’t control.
+-12: Create a copy of Nicol Bolas the Deceiver. The legend rule doesn’t apply.</text>
+</card>
+<card>
+ <name>Nicol Bolas the Destroyer</name>
+ <set picURL="/Nicol Bolas the Destroyer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4UBR</manacost>
+ <type>Planswalker - Bolas</type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Destroy target permanent.
+0: Return target creature from a graveyard to the battlefield under your control.
+-8: Destroy all permanents you don’t control.</text>
+</card>
+<card>
+ <name>Nivix Enforcer</name>
+ <set picURL="/Nivix Enforcer.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1UR</manacost>
+ <type>Artifact Creature - Cyborg </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever Nivix Enforcer attacks, exile the top two cards of your library. Until end of turn, you may cast instant and sorcery cards exiled this way.</text>
+</card>
+<card>
+ <name>Once More With Feeling</name>
+ <set picURL="/Once More With Feeling.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield. It gets +5/+5 and haste. Sacrifice it at end of turn.
+Flashback 3BRG (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+</card>
+<card>
+ <name>The Oracle</name>
+ <set picURL="/The Oracle.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4GU</manacost>
+ <type>Planeswalker - Oracle </type>
+ <loyalty>4</loyalty>
+ <tablerow>1</tablerow>
+ <text>+1: Manifest the top card of your library.
+-1: Return target permanent you own to your hand. Draw a card.
+-3: Untap three target permanents.</text>
+</card>
+<card>
+ <name>Orzhov Adjudicator</name>
+ <set picURL="/Orzhov Adjudicator.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2WB</manacost>
+ <type>Enchantment Creature - Spirit </type>
+ <pt>2/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature enters the battlefield under your control, you gain 1 life.
+Whenever a creature enters the battlefield under an opponents control its controller loses 1 life.
+Memorialize 3WB (3WB: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Rakdos King of the Revel</name>
+ <set picURL="/Rakdos King of the Revel.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>3BR</manacost>
+ <type>Legendary Creature - Demon </type>
+ <pt>9/9</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible, Trample
+Rakdos enters the battlefield tapped and does not untap during your untap step.
+Sacrifice a creature: Untap Rakdos. Activate this ability only during your turn.</text>
+</card>
+<card>
+ <name>Speaker of the Pack</name>
+ <set picURL="/Speaker of the Pack.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>3GW</manacost>
+ <type>Creature - Human Druid </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Speaker of the Pack enters the battlefield, create a 1/1 white Bird creature token with flying and a 2/2 green Wolf creature token.
+At the beginning of your upkeep, populate.
+Memorialize 5GW (5GW: Exile this card from your graveyard. Create a token copy which is a Legendary colorless artifact.)</text>
+</card>
+<card>
+ <name>Stone of Secrets</name>
+ <set picURL="/Stone of Secrets.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an opponent casts their second spell of a turn, draw a card.
+T: Gain 1 life then scry X where is X is the amount of life you gained this turn.</text>
+</card>
+<card>
+ <name>Throw Caution to the Wind</name>
+ <set picURL="/Throw Caution to the Wind.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>6URG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, spells you cast have cascade. Cascade three times.</text>
+</card>
+<card>
+ <name>Thunderous Insight</name>
+ <set picURL="/Thunderous Insight.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>XUR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Thunderous Insight deals X damage to target creature or player. You may choose target artifact, instant, or sorcery card you own from outside the game with converted mana cost X or less, reveal it, then put it into your hand.</text>
+</card>
+<card>
+ <name>Ulven the Graven King</name>
+ <set picURL="/Ulven the Graven King.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>3BGW</manacost>
+ <type>Planeswalker - Ulven </type>
+ <loyalty>6</loyalty>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature dies, put a loyalty counter on Ulven the Graven King.
+0: Each player sacrifice a creature. You gain life equal to their combined toughness
+-4: Put three 2/2 black Zombie creature tokens onto the battlefield tapped.
+-12: Return all creatures from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Varolz the Scar Striped</name>
+ <set picURL="/Varolz the Scar Striped.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1BG</manacost>
+ <type>Legendary Creature - Troll Shaman </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>You may play land cards from your graveyard.
+Creature cards in your graveyard have “Scavenge 1BG”
+Noncreature, nonland cards in your graveyard have “Consume BG”</text>
+</card>
+<card>
+ <name>Wanderer of the Maelstrom</name>
+ <set picURL="/Wanderer of the Maelstrom.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4URG</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures you control have haste.
+Cascade, Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+</card>
+<card>
+ <name>Zacama Primal Calamity</name>
+ <set picURL="/Zacama Primal Calamity.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4BRRG</manacost>
+ <type>Legendary Creature - Elder Dinosaur </type>
+ <pt>7/4</pt>
+ <tablerow>2</tablerow>
+ <text>Triple Strike (It deals both first-strike, regular, and last-strike combat damage.)
+When Zacama Primal Calamity enters the battlefield, target player sacrifices three creatures. You gain life equal to the combined power of those creatures.</text>
+</card>
+<card>
+ <name>Boros Battlemage</name>
+ <set picURL="/Boros Battlemage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1R/WR/W</manacost>
+ <type>Creature - Human Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double Strike
+Whenever you cast a noncreature spell, create a 1/1 white Human Soldier creature token.</text>
+</card>
+<card>
+ <name>Convergence of Heroes</name>
+ <set picURL="/Convergence of Heroes.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>5R/WG/WR/G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to three creature cards with different converted mana costs and reveal them. An opponent chooses one to put onto the battlefield. Put the rest into your hand. Shuffle your library.</text>
+</card>
+<card>
+ <name>Debtors Knell</name>
+ <set picURL="/Debtors Knell.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>4W/BW/B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.
+Awaken 8—6WB (If you cast this card for 6WB, also put eight +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Dreadship Ravager</name>
+ <set picURL="/Dreadship Ravager.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1B/RB/R</manacost>
+ <type>Creature - Orc Pirate </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Dreadship Ravager can’t block.
+Raid — 2B: Return Dreadship Ravager from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.</text>
+</card>
+<card>
+ <name>Dreg Mangler</name>
+ <set picURL="/Dreg Mangler.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1B/GB/G</manacost>
+ <type>Creature - Plant Zombie </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Dreg Mangler attacks, you may exile a card from your graveyard. If you do, create a 1/1 green Saproling creature token.
+Unearth 1BG (1BG: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Experiment Kraj</name>
+ <set picURL="/Experiment Kraj.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1G/U</manacost>
+ <type>Legendary Creature - Ooze Mutant </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>If Experiment Kraj would be destroyed, turn it face down instead.
+Ultra Megamorph 1G/U (You may cast this face down as a 2/2 creature for 2. Turn it face up any time for its ultra megamorph cost and put a +1/+1 counter on it.)</text>
+</card>
+<card>
+ <name>Experiment X</name>
+ <set picURL="/Experiment X.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>R/G</manacost>
+ <type>Creature - Ooze </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</text>
+</card>
+<card>
+ <name>Flamekin Extinguisher</name>
+ <set picURL="/Flamekin Extinguisher.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2B/RB/R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>4/2</pt>
+ <tablerow>2</tablerow>
+ <text>Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)
+Sacrifice another creature: Flamekin Extinguisher deals 1 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Gelectrode</name>
+ <set picURL="/Gelectrode.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>1U/R</manacost>
+ <type>Enchantment Creature - Elemental </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, you may create a 2/1 blue and red Elemental creature token with haste. Sacrifice it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Herald of Ojutai</name>
+ <set picURL="/Herald of Ojutai.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2W/U</manacost>
+ <type>Creature - Aven Wizard </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flash, Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+</card>
+<card>
+ <name>Lavinia of the Tenth</name>
+ <set picURL="/Lavinia of the Tenth.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>3W/UW/U</manacost>
+ <type>Legendary Creature - Human Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Lavinia of the Tenth enters the battlefield, detain all permanents. (Until your next turn, those permanents can’t attack or block and their activated abilities can’t be activated.)</text>
+</card>
+<card>
+ <name>Natures Resurgence</name>
+ <set picURL="/Natures Resurgence.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>G/WG/WG/W</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target noncreature permanent. Proliferate, then populate.</text>
+</card>
+<card>
+ <name>Nimble Blade Akimba</name>
+ <set picURL="/Nimble Blade Akimba.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>R/W</manacost>
+ <type>Creature - Jackal Wizard </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>First Strike, Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Eternalize 4RW (4RW, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)</text>
+</card>
+<card>
+ <name>Qasali Pridemage</name>
+ <set picURL="/Qasali Pridemage.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>G/WG/W</manacost>
+ <type>Creature - Cat Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+1, Exile Qasali Pridemage: Exile target noncreature artifact or enchantment.</text>
+</card>
+<card>
+ <name>Sage of Harmony</name>
+ <set picURL="/Sage of Harmony.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>R/WW/UU/R</manacost>
+ <type>Creature - Djinn </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever you cast a white noncreature spell, you gain 2 life.
+Whenever you cast a blue noncreature spell, scry 2.
+Whenever you cast a red noncreature spell, Sage of Harmony deals 2 damage to each opponent</text>
+</card>
+<card>
+ <name>Unnatural Cultivator</name>
+ <set picURL="/Unnatural Cultivator.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>M</color>
+ <manacost>2G/W</manacost>
+ <type>Creature - Human Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Proliferate, then Populate.
+Awaken 3—4G/W (If you cast this card for 4G/W, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Aether Gateway</name>
+ <set picURL="/Aether Gateway.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact Creature - Wall </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>The first spell you cast from each zone each turn costs 1 less to cast.
+9, Exile Aether Gateway: Exile all cards in your graveyard. Until end of turn, you may cast cards exiled this way without paying their mana costs.</text>
+</card>
+<card>
+ <name>Astral Lens</name>
+ <set picURL="/Astral Lens.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Astral Lens enters the battlefield, scry 1.
+T: Add one mana of any color to your mana pool.</text>
+</card>
+<card>
+ <name>Bonesplitter</name>
+ <set picURL="/Bonesplitter.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Living Weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +2/+1
+Equip 3</text>
+</card>
+<card>
+ <name>Bonesplitter</name>
+ <set picURL="/Bonesplitter.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Living Weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +2/+1
+Equip 3</text>
+</card>
+<card>
+ <name>Bonesplitter</name>
+ <set picURL="/Bonesplitter.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Living Weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)
+Equipped creature gets +2/+1
+Equip 3</text>
+</card>
+<card>
+ <name>Continuity Stone</name>
+ <set picURL="/Continuity Stone.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Tap a permanent you control: Untap another target permanent.
+Awaken 4— 6 (If you cast this card for  6, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Crucible of Worlds</name>
+ <set picURL="/Crucible of Worlds.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Legendary Artifact </type>
+ <tablerow>1</tablerow>
+ <text>You may play land cards from your graveyard.
+Awaken 4—6 (If you cast this card for 6, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Cryptic Relic</name>
+ <set picURL="/Cryptic Relic.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>0</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>2, T: Copy target activated or triggered ability.
+Awaken 4— 5 (If you cast this card for  5, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)</text>
+</card>
+<card>
+ <name>Disparity Engine</name>
+ <set picURL="/Disparity Engine.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>7</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Spells you cast cost 1 less and spells your opponents cast cost 1 more.
+At the beginning of your upkeep, draw a card and gain 1 life. Each opponent discards a card and loses 1 life.
+Creatures you control get +1/+0 and creatures you don’t control get -1/+0.</text>
+</card>
+<card>
+ <name>Door to Another World</name>
+ <set picURL="/Door to Another World.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>8</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>During each of your turns, you may cast one card you own from outside the game.
+You may spend mana as if it was mana of any color to cast spells.</text>
+</card>
+<card>
+ <name>Elixir of Immortality</name>
+ <set picURL="/Elixir of Immortality.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add C to your mana pool.
+5, T: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner’s library.</text>
+</card>
+<card>
+ <name>Everflowing Chalice</name>
+ <set picURL="/Everflowing Chalice.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>0</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Multikicker 2 (You may pay an additional 2 any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+T: Add C to your mana pool for each charge counter on Everflowing Chalice.</text>
+</card>
+<card>
+ <name>Everflowing Chalice</name>
+ <set picURL="/Everflowing Chalice.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>0</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Multikicker 2 (You may pay an additional 2 any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+T: Add C to your mana pool for each charge counter on Everflowing Chalice.</text>
+</card>
+<card>
+ <name>Forgotten Shard</name>
+ <set picURL="/Forgotten Shard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color to your mana pool.
+Suspend 4—0 (Rather than cast this card from your hand, you may pay 0 and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</text>
+</card>
+<card>
+ <name>Jinxed Idol</name>
+ <set picURL="/Jinxed Idol.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, Jinxed Idol deals 2 damage to you.
+Sacrifice a creature: Target opponent gains control of Jinxed Idol.
+Sacrifice Jinxed Idol: Each opponent draws three cards.</text>
+</card>
+<card>
+ <name>Mana Font</name>
+ <set picURL="/Mana Font.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Mana Font enters the battlefield tapped.
+T: Add one mana of any color to your mana pool.</text>
+</card>
+<card>
+ <name>Mana Font</name>
+ <set picURL="/Mana Font.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Mana Font enters the battlefield tapped.
+T: Add one mana of any color to your mana pool.</text>
+</card>
+<card>
+ <name>Obelisk of Tomorrows</name>
+ <set picURL="/Obelisk of Tomorrows.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add C to your mana pool
+7, T: Exile Obelisk of Tomorrows and target permanent you don’t control.</text>
+</card>
+<card>
+ <name>Panharmonicon</name>
+ <set picURL="/Panharmonicon.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+2, T: Return target creature you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Perilous Myr</name>
+ <set picURL="/Perilous Myr.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact Creature - Myr </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Perilous Myr dies, it deals 2 damage to target creature or player.
+1: Untap Perilous Myr</text>
+</card>
+<card>
+ <name>Recursive Engine</name>
+ <set picURL="/Recursive Engine.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Put target card in a graveyard on the bottom of its owner’s library. Add C to your mana pool.</text>
+</card>
+<card>
+ <name>The Sixth Sun</name>
+ <set picURL="/The Sixth Sun.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>4</manacost>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add CC to your mana pool.
+4, T: Target land becomes a Waste.</text>
+</card>
+<card>
+ <name>Theives Lantern</name>
+ <set picURL="/Theives Lantern.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Theives Lantern enters the battlefield, look at the top card of target players library. You may put that card into their graveyard.
+T: Add C to your mana pool.</text>
+</card>
+<card>
+ <name>Azorius Chancery</name>
+ <set picURL="/Azorius Chancery.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner’s hand.
+T: Add WU to your mana pool.</text>
+</card>
+<card>
+ <name>Azorius Chancery</name>
+ <set picURL="/Azorius Chancery.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner’s hand.
+T: Add WU to your mana pool.</text>
+</card>
+<card>
+ <name>Blank Expanse</name>
+ <set picURL="/Blank Expanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+T, Sacrifice Blank Expanse: Search your library for a basic land card and put it onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Blank Expanse</name>
+ <set picURL="/Blank Expanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+T, Sacrifice Blank Expanse: Search your library for a basic land card and put it onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Blank Expanse</name>
+ <set picURL="/Blank Expanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+T, Sacrifice Blank Expanse: Search your library for a basic land card and put it onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Blood Crypt</name>
+ <set picURL="/Blood Crypt.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>As Blood Crypt enters the battlefield, you may pay 2 life. If you don’t, Blood Crypt enters the battlefield tapped.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Blood Crypt</name>
+ <set picURL="/Blood Crypt.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>As Blood Crypt enters the battlefield, you may pay 2 life. If you don’t, Blood Crypt enters the battlefield tapped.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Blood Crypt</name>
+ <set picURL="/Blood Crypt.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>As Blood Crypt enters the battlefield, you may pay 2 life. If you don’t, Blood Crypt enters the battlefield tapped.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Citadel of Prophecy</name>
+ <set picURL="/Citadel of Prophecy.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>Play with the top card of your library revealed.
+Citadel of Prophecy enters the battlefield tapped.
+T: For each of the revealed card’s colors, add one mana of that color to your mana pool.</text>
+</card>
+<card>
+ <name>Crumbling Empire</name>
+ <set picURL="/Crumbling Empire.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+T: Add one mana of any color to your mana pool. Crumbling Empire deals 1 damage to you.</text>
+</card>
+<card>
+ <name>Dimir Aqueduct</name>
+ <set picURL="/Dimir Aqueduct.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Dimir Aqueduct enters the battlefield tapped.
+When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand.
+T: Add UB to your mana pool.</text>
+</card>
+<card>
+ <name>Dimir Aqueduct</name>
+ <set picURL="/Dimir Aqueduct.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Dimir Aqueduct enters the battlefield tapped.
+When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand.
+T: Add UB to your mana pool.</text>
+</card>
+<card>
+ <name>Engineered Expanse</name>
+ <set picURL="/Engineered Expanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Engineered Expanse, Pay 1 life: Search your library for a basic land card and put it onto the battlefield. Shuffle your library.</text>
+</card>
+<card>
+ <name>Engineered Expanse</name>
+ <set picURL="/Engineered Expanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Engineered Expanse, Pay 1 life: Search your library for a basic land card and put it onto the battlefield. Shuffle your library.</text>
+</card>
+<card>
+ <name>Engineered Expanse</name>
+ <set picURL="/Engineered Expanse.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice Engineered Expanse, Pay 1 life: Search your library for a basic land card and put it onto the battlefield. Shuffle your library.</text>
+</card>
+<card>
+ <name>Exotic Orchard</name>
+ <set picURL="/Exotic Orchard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 2 life, Sacrifice Exotic Orchard: Search your library for a land card and put it onto the battlefield. Activate this ability only during your turn.</text>
+</card>
+<card>
+ <name>Exotic Orchard</name>
+ <set picURL="/Exotic Orchard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 2 life, Sacrifice Exotic Orchard: Search your library for a land card and put it onto the battlefield. Activate this ability only during your turn.</text>
+</card>
+<card>
+ <name>Exotic Orchard</name>
+ <set picURL="/Exotic Orchard.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Pay 2 life, Sacrifice Exotic Orchard: Search your library for a land card and put it onto the battlefield. Activate this ability only during your turn.</text>
+</card>
+<card>
+ <name>Frontier Bivouac</name>
+ <set picURL="/Frontier Bivouac.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Frontier Bivouac enters the battlefield tapped.
+T: Add G, U, or R to your mana pool</text>
+</card>
+<card>
+ <name>Gaea Heart of the World</name>
+ <set picURL="/Gaea Heart of the World.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Legendary Land Creature - God </type>
+ <pt>8/8</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible, Trample
+Gaea Heart of the World enters the battlefield tapped.
+T: Add G to your mana pool
+As long as you control nine or fewer lands, Gaea isn’t a creature.</text>
+</card>
+<card>
+ <name>Gateway to Nowhere</name>
+ <set picURL="/Gateway to Nowhere.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>Gateway to Nowhere enters the battlefield tapped.
+T: Add one mana of any color to your mana pool. Each opponent gains 1 life.
+1CWUBRG, T: Target player loses the game.</text>
+</card>
+<card>
+ <name>Golgari Rot Farm</name>
+ <set picURL="/Golgari Rot Farm.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Golgari Rot Farm enters the battlefield tapped.
+When Golgari Rot Farm enters the battlefield, return a land you control to its owner’s hand.
+T: Add BG to your mana pool.</text>
+</card>
+<card>
+ <name>Gruul Turf</name>
+ <set picURL="/Gruul Turf.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Gruul Turf enters the battlefield tapped.
+When Gruul Turf enters the battlefield, return a land you control to its owner’s hand.
+T: Add RG to your mana pool.</text>
+</card>
+<card>
+ <name>Heart of Alara</name>
+ <set picURL="/Heart of Alara.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>2, T: Add three mana of three different colors to your mana pool.</text>
+</card>
+<card>
+ <name>Heart of Eventide</name>
+ <set picURL="/Heart of Eventide.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>2, T: Add three mana to your mana pool of any color a land you control could produce.</text>
+</card>
+<card>
+ <name>Heart of Kaladesh</name>
+ <set picURL="/Heart of Kaladesh.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool
+2, T: Creature a 1/1 colorless Construct artifact creature token.</text>
+</card>
+<card>
+ <name>Izzet Boilerworks</name>
+ <set picURL="/Izzet Boilerworks.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Izzet Boilerworks enters the battlefield tapped.
+When Izzet Boilerworks enters the battlefield, return a land you control to its owner’s hand.
+T: Add UR to your mana pool.</text>
+</card>
+<card>
+ <name>Jungle Shrine</name>
+ <set picURL="/Jungle Shrine.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Jungle Shrine enters the battlefield tapped.
+T: Add R, G, or W to your mana pool</text>
+</card>
+<card>
+ <name>Nomad Outpost</name>
+ <set picURL="/Nomad Outpost.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Nomad Outpost enters the battlefield tapped.
+T: Add R, W, or B to your mana pool</text>
+</card>
+<card>
+ <name>Orzhov Basilica</name>
+ <set picURL="/Orzhov Basilica.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Orzhov Basilica enters the battlefield tapped.
+When Orzhov Basilica enters the battlefield, return a land you control to its owner’s hand.
+T: Add WB to your mana pool.</text>
+</card>
+<card>
+ <name>Orzhov Basilica</name>
+ <set picURL="/Orzhov Basilica.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Orzhov Basilica enters the battlefield tapped.
+When Orzhov Basilica enters the battlefield, return a land you control to its owner’s hand.
+T: Add WB to your mana pool.</text>
+</card>
+<card>
+ <name>The Promised Land</name>
+ <set picURL="/The Promised Land.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land - Desert </type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+Whenever a land enters the battlefield under you control, it gains “T: Add one mana of any color to your mana pool.” until end of turn.</text>
+</card>
+<card>
+ <name>Sacred Foundry</name>
+ <set picURL="/Sacred Foundry.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>As Sacred Foundry enters the battlefield, you may pay 2 life. If you don’t, Sacred Foundry enters the battlefield tapped.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Sacred Foundry</name>
+ <set picURL="/Sacred Foundry.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>As Sacred Foundry enters the battlefield, you may pay 2 life. If you don’t, Sacred Foundry enters the battlefield tapped.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Sacred Foundry</name>
+ <set picURL="/Sacred Foundry.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>As Sacred Foundry enters the battlefield, you may pay 2 life. If you don’t, Sacred Foundry enters the battlefield tapped.
+Cycling 2 (2, Discard this card: Draw a card.)</text>
+</card>
+<card>
+ <name>Sandsteppe Citadel</name>
+ <set picURL="/Sandsteppe Citadel.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Sandsteppe Citadel enters the battlefield tapped.
+T: Add W, B, or G to your mana pool.</text>
+</card>
+<card>
+ <name>Savage Lands</name>
+ <set picURL="/Savage Lands.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Savage Lands enters the battlefield tapped.
+T: Add B, R, or G to your mana pool.</text>
+</card>
+<card>
+ <name>Selesnya Sanctuary</name>
+ <set picURL="/Selesnya Sanctuary.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Selesnya Sanctuary enters the battlefield tapped.
+When Selesnya Sanctuary enters the battlefield, return a land you control to its owner’s hand.
+T: Add GW to your mana pool.</text>
+</card>
+<card>
+ <name>Simic Growth Chamber</name>
+ <set picURL="/Simic Growth Chamber.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Simic Growth Chamber enters the battlefield tapped.
+When Simic Growth Chamber enters the battlefield, return a land you control to its owner’s hand.
+T: Add GU to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Abandon</name>
+ <set picURL="/Temple of Abandon.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Abandon enters the battlefield tapped.
+When Temple of Abandon enters the battlefield, scry 1.
+T: Add R or G to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Creation</name>
+ <set picURL="/Temple of Creation.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+Cycling 2 (2, Discard this card: Draw a card.)
+Landcycling 2 (2, Discard this card: Search your library for a Land card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+</card>
+<card>
+ <name>Temple of Creation</name>
+ <set picURL="/Temple of Creation.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+Cycling 2 (2, Discard this card: Draw a card.)
+Landcycling 2 (2, Discard this card: Search your library for a Land card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+</card>
+<card>
+ <name>Temple of Deceit</name>
+ <set picURL="/Temple of Deceit.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Deceit enters the battlefield tapped.
+When Temple of Deceit enters the battlefield, scry 1.
+T: Add U or B to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Enlightenment</name>
+ <set picURL="/Temple of Enlightenment.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Enlightenment enters the battlefield tapped.
+When Temple of Enlightenment enters the battlefield, scry 1.
+T: Add W or U to your mana pool</text>
+</card>
+<card>
+ <name>Temple of Epiphany</name>
+ <set picURL="/Temple of Epiphany.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Epiphany enters the battlefield tapped.
+When Temple of Epiphany enters the battlefield, scry 1.
+T: Add U or R to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Malady</name>
+ <set picURL="/Temple of Malady.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Malady enters the battlefield tapped.
+When Temple of Malady enters the battlefield, scry 1.
+T: Add G or B to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Mystery</name>
+ <set picURL="/Temple of Mystery.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Mystery enters the battlefield tapped.
+When Temple of Mystery enters the battlefield, scry 1.
+T: Add G or U to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Plenty</name>
+ <set picURL="/Temple of Plenty.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Plenty enters the battlefield tapped.
+When Temple of Plenty enters the battlefield, scry 1.
+T: Add G or W to your mana pool.</text>
+</card>
+<card>
+ <name>Temple of Silence</name>
+ <set picURL="/Temple of Silence.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Temple of Silence enters the battlefield tapped.
+When Temple of Silence enters the battlefield, scry 1.
+T: Add W or B to your mana pool.</text>
+</card>
+<card>
+ <name>Plains</name>
+ <set picURL="/Plains.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set picURL="/Island.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set picURL="/Swamp.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set picURL="/Mountain.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set picURL="/Forest.full.jpg" picURLHq="" picURLSt="">_CUBE</set>
+ <color>G</color>
+ <manacost></manacost>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
